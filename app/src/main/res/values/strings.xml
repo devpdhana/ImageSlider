@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image_Slider</string>
+    <string name="welcome">Welcome</string>
+    <string name="androidimage">AndroidImage</string>
+</resources>
